@@ -6,8 +6,8 @@
 
 ## KPI's
 
--Total number of employees
--Total attrition count
+- Total number of employees
+- Total attrition count
 -Attrition rate percentage
 -Average employee age, salary, and tenure
 
